@@ -1,2 +1,2 @@
 # Python Learning
-My journey learning Python
+My journey of learning Python
